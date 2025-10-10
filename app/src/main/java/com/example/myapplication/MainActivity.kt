@@ -14,7 +14,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import org.jetbrains.annotations.ApiStatus
 import java.util.Locale
-
+//prueba 2
 class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     var tts: TextToSpeech?=null
     override fun onCreate(savedInstanceState: Bundle?) {
